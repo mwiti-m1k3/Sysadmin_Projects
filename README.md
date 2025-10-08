@@ -42,7 +42,7 @@ To contribute:
 5.  Push to the branch (`git push origin feature/YourTaskScript`).
 6.  Open a Pull Request, describing your contribution.
 
-Please refer to our `CONTRIBUTING.md` for more detailed guidelines.
+Please refer to our [`CONTRIBUTING.md`](https://github.com/mwiti-m1k3/Sysadmin_Projects/blob/main/CONTRIBUTING.md) for more detailed guidelines.
 
 ### ❓ Questions & Support
 
