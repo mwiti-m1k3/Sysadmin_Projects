@@ -6,7 +6,7 @@ This repository is a collection of practical scripts, step-by-step guides, and u
 
 ### 🎯 The Goal
 
-The primary goal is to create an easily accessible resource for sysadmins to find, share, and utilize scripts and guidelines for common administrative challenges. We focus on simplicity and direct applicability, helping you automate repetitive tasks, maintain system health, and troubleshoot efficiently.
+The primary goal is to create an easily accessible resource for sysadmins to find, share, and utilize scripts and guidelines for common administrative challenges. We'll focus on simplicity and direct applicability, helping you automate repetitive tasks, maintain system health, and troubleshoot efficiently.
 
 ### ✨ What You'll Find Here
 
@@ -31,7 +31,7 @@ Each project or guide will be located in its own dedicated directory, categorize
 
 ### 🤝 Contribution
 
-We encourage fellow sysadmins to contribute their useful scripts, guides, and tips! If you have a solution that helps you in your daily work, please share it with the community.
+I encourage fellow sysadmins to contribute their useful scripts, guides, and tips! If you have a solution that helps you in your daily work, please share it with the community.
 
 To contribute:
 
